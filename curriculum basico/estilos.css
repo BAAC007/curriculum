@@ -5,6 +5,11 @@ header, main, footer {
   font-family: sans-serif;
 }
 
+body{
+  background: black;
+  color: white;
+}
+
 main {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
